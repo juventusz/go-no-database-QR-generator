@@ -1,0 +1,1 @@
+# go-no-database-QR-generator
